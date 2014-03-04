@@ -2,9 +2,7 @@
 
 Why not get started early? Based on a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121), this repo will keep track of some ideas to show command line newcomers some easy to use tools and time-saving tricks.
 
-
-
-Maybe it's "Five command line tools and tricks to change your life"
+Maybe it's "Five command line tools and tricks to change your life" Or put a better way by [@jacqui](https://twitter.com/jacqui): "If we can (try to) demystify d3 we can (try to) demystify shell."
 
 * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
 * awk
