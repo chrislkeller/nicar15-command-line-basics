@@ -4,8 +4,6 @@ Why not get started early? Based on a [discussion post-#NICAR14](https://twitter
 
 Maybe it's "Five command line tools and tricks to change your life" Or put a better way by [@jacqui](https://twitter.com/jacqui): "If we can (try to) demystify d3 we can (try to) demystify shell."
 
-![](http://gifrific.com/wp-content/uploads/2012/06/Boy-That-Escalated-Quickly-Anchorman.gif)
-
 * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
 * awk
 * sed
