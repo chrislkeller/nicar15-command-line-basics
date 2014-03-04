@@ -19,6 +19,7 @@ Maybe it's "Five command line tools and tricks to change your life"
 * [\>](http://cli.learncodethehardway.org/book/ex15.html)
 * [|](http://cli.learncodethehardway.org/book/ex15.html)
 * [sudo](https://xkcd.com/149/)
+* xargs / gnu parallel - easy map reduce
 
 
 [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
