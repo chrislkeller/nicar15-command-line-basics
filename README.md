@@ -22,6 +22,7 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * xargs / gnu parallel - easy map reduce
 * [csvkit](http://csvkit.readthedocs.org/en/latest/index.html)
 
+Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 
 [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 
