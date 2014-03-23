@@ -20,7 +20,7 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * [|](http://cli.learncodethehardway.org/book/ex15.html)
 * [sudo](https://xkcd.com/149/)
 * xargs / gnu parallel - easy map reduce
-* [csvkit](http://csvkit.readthedocs.org/en/latest/index.html)
+* [csvkit](http://csvkit.readthedocs.org/en/latest/index.html) and [csv de dupe](https://github.com/datamade/csvdedupe)
 
 Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 
