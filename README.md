@@ -5,6 +5,7 @@ Why not get started early? Based on a [discussion post-#NICAR14](https://twitter
 Maybe it's "Five command line tools and tricks to change your life" Or put a better way by [@jacqui](https://twitter.com/jacqui): "If we can (try to) demystify d3 we can (try to) demystify shell."
 
 * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
+* package managers
 * awk
 * sed
 * [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
@@ -14,7 +15,7 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * tail
 * [pwd](http://cli.learncodethehardway.org/book/ex2.html)
 * vim
-* [grep](http://cli.learncodethehardway.org/book/ex18.html)
+* [grep](http://cli.learncodethehardway.org/book/ex18.html) | [ack](http://beyondgrep.com/)
 * [cat](http://cli.learncodethehardway.org/book/ex13.html)
 * [\>](http://cli.learncodethehardway.org/book/ex15.html)
 * [|](http://cli.learncodethehardway.org/book/ex15.html)
