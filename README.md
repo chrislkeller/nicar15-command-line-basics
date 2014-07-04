@@ -28,3 +28,5 @@ Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective
 [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 
 [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
+
+[UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
