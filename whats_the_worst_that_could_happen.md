@@ -12,7 +12,7 @@ Computers are exactingly precise.  At their core they are rules machines, and th
 So, when you start telling a computer what to do, the computer will listen, focused intently, until you complete what you have started, or you tell it explicitly that you'd like to start over, or stop doing what you you started.  It will continue indifferent to your changes of heart or intent.
 
 An example from the interactive ruby shell (a.k.a. `irb`)
-```ruby
+```bash
 2.1.2 :001 > puts "hello"
 hello
  => nil 
