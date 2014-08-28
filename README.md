@@ -30,3 +30,5 @@ Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective
 [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
 
 [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
+
+* This hands-on session will cover some basics of the command line (terminal), including navigating through directories, creating files and and some tools to look at and work with structured data. We'll also touch a bit on awesome libraries like csvkit that work from the command line and provide resources so participants can go deeper on their own.
