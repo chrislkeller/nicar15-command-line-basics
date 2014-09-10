@@ -23,6 +23,12 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * xargs / gnu parallel - easy map reduce
 * [csvkit](http://csvkit.readthedocs.org/en/latest/index.html) and [csv de dupe](https://github.com/datamade/csvdedupe)
 
+## Questions worth answering
+### What commands do you use on a daily basis and what do you use 'em for?
+
+
+
+## Links
 Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 
 [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
@@ -30,5 +36,7 @@ Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective
 [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
 
 [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
+
+[Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 
 * This hands-on session will cover some basics of the command line (terminal), including navigating through directories, creating files and and some tools to look at and work with structured data. We'll also touch a bit on awesome libraries like csvkit that work from the command line and provide resources so participants can go deeper on their own.
