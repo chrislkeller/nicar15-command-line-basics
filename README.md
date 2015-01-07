@@ -31,6 +31,8 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 ## Links
 Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 
+[Useful Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
+
 [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 
 [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
