@@ -7,7 +7,7 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
 * package managers
 * awk
-* sed
+* [sed](http://www.grymoire.com/Unix/sed.html)
 * [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
 * tr
 * iconv
