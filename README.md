@@ -29,16 +29,13 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 
 
 ## Links
-Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
-
-[Useful Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
-
-[Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
-
-[Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
-
-[UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
-
-[Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+* Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
+* [Useful Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
+* [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
+* [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
+* [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
+* [Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+* [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
+* [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 * This hands-on session will cover some basics of the command line (terminal), including navigating through directories, creating files and and some tools to look at and work with structured data. We'll also touch a bit on awesome libraries like csvkit that work from the command line and provide resources so participants can go deeper on their own.
