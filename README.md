@@ -18,6 +18,7 @@ How I learned to take command of the command line: A journalists guide to gettin
 * head
 * tail
 * curl
+* sort
 * man
 
 ----
@@ -54,3 +55,4 @@ Maybe it's "Five command line tools and tricks to change your life" Or put a bet
 * [Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 * [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
 * [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+* [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
