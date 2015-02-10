@@ -5,7 +5,7 @@ How I learned to take command of the command line: A journalists guide to gettin
 * [On The Computer](#on-the-computer)
 * [Getting Started](#getting-started)
 * [Where Do You Go From Here](#where-do-you-go-from-here)
-* [Learning More, Reference And Tools](#learning-more-rReference-and-tools)
+* [Learning More, Reference And Tools](#learning-more-reference-and-tools)
 * [About Us](#about-us)
 
 
