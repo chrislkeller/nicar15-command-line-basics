@@ -1,17 +1,20 @@
 How I learned to take command of the command line: A journalists guide to getting started
 =========================================================================================
 
-* This hands-on session aims to help command line novices learn some basic commands that can help them every day, including navigating through directories, creating files and tools to look at and work with structured data. If you're familiar with grep and curl this will likely be review. We'll end by highlighting some command line libraries that are musts for reporters. and provide additional resources so participants can go deeper on their own.
+* This #NICAR15 hands-on session aims to help command line novices learn some basic commands that can help them every day, including navigating through directories, creating files and tools to look at and work with structured data. If you're familiar with grep and curl this will likely be review. We'll end by highlighting some command line libraries that are musts for reporters, and provide additional resources so participants can go deeper on their own.
 
-* If we're going to be using Mac OS or Linux (I think you mentioned this was a possibility?), we'll be ok with the standard terminal application.
-* If it's a Windows machine, I'd recommend installing Cygwin and making sure that curl is installed.
-
+* Requirements:
+    * If you're using Mac OS or Linux you'll be OK with the standard terminal application.
+    * If you're on a Windows machine, I'd recommend installing [Cygwin](https://www.cygwin.com/) and making sure that [curl is installed](https://stackoverflow.com/questions/3647569/how-do-i-install-curl-on-cygwin).
+    * On a Windows machine you can also install [VirtualBox](https://www.virtualbox.org/) and [Vagrant](https://www.vagrantup.com/) to get an *nix machine up and running. That is beyond the scope of this session.
 ----
 
 * cd
 * ls
 * mkdir
 * touch
+* tab completion
+* ctrl + a and ctrl + e
 * [pwd](http://cli.learncodethehardway.org/book/ex2.html)
 * [grep](http://cli.learncodethehardway.org/book/ex18.html)
 * [cat](http://cli.learncodethehardway.org/book/ex13.html)
