@@ -51,10 +51,10 @@ Getting Started
 * [grep](http://cli.learncodethehardway.org/book/ex18.html):
 * [cat](http://cli.learncodethehardway.org/book/ex13.html):
 * [head](#):
-* [tail](#):
+* [tail](#): (-n) display the last n lines of a file
 * [curl](#):
 * [sort](#):
-* [man](#):
+* [man](#): search the online **man**ual for a particular command
 
 
 Where Do You Go From Here
