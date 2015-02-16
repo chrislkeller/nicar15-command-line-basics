@@ -87,6 +87,7 @@ Learning More, Reference And Tools
 
 ## Reference
 
+* [Working With CSVs On The Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/)
 * [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 * [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
 * [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
@@ -98,8 +99,7 @@ Learning More, Reference And Tools
 
 * [csvkit](http://csvkit.readthedocs.org/en/latest/index.html):
 * [csv de dupe](https://github.com/datamade/csvdedupe):
-* homebrew
-
+* [homebrew](http://brew.sh/)
 
 About Us
 ========
