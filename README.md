@@ -54,7 +54,7 @@ Getting Started
 * [tail](#): (-n) display the last n lines of a file
 * [curl](#):
 * [sort](#):
-* [man](#):
+* [man](#): search the online manual for a paticular command
 
 
 Where Do You Go From Here
