@@ -48,7 +48,7 @@ Getting Started
 * [touch](#):
 	* create a file within the current directory
 * [pwd](http://cli.learncodethehardway.org/book/ex2.html): **p**rint **w**orking **d**irectory
-* [grep](http://cli.learncodethehardway.org/book/ex18.html):
+* [grep](http://cli.learncodethehardway.org/book/ex18.html): **g**lobally search a **r**regular **e**xpression and **p**rint
 * [cat](http://cli.learncodethehardway.org/book/ex13.html):
 * [head](#):
 * [tail](#): (-n) display the last n lines of a file
