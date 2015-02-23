@@ -87,6 +87,7 @@ Learning More, Reference And Tools
 
 ## Reference
 
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Working With CSVs On The Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/)
 * [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 * [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
