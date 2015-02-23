@@ -48,7 +48,7 @@ Getting Started
 * [mkdir](http://www.compciv.org/unix-tools/#mkdir): make directory
 * [touch](http://www.compciv.org/unix-tools/#touch): update a file's timestamp, or create a new file
 * [pwd](http://www.compciv.org/unix-tools/#pwd): print working directory
-* [grep](http://www.compciv.org/unix-tools/#grep): **g**lobally search a **r**egular **e**xpression and **p**rint
+* [grep](http://www.compciv.org/unix-tools/#grep): globally search a regular expression and print
 * [cat](http://www.compciv.org/unix-tools/#cat): concatenate, or combine two or more files
 * [head](http://www.compciv.org/unix-tools/#head): (-n) display the first n lines of a file
 * [tail](http://www.compciv.org/unix-tools/#tail): (-n) display the last n lines of a file
