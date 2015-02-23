@@ -1,7 +1,9 @@
-cd
 ===
+cd
 
 * Change Directory
+* [Stanford Journalism](http://journalism.stanford.edu/) link for [cd](http://www.compciv.org/unix-tools/#cd)
+
 
 What it does
 ============

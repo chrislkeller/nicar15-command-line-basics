@@ -37,25 +37,24 @@ Getting Started
 
 * tab completion
 * ctrl + a and ctrl + e
+* piping
+* >
+* standard output
 
 ## On to the commands
 
-* [cd](#): **c**hange **d**irectory
-* [ls](#): **l**i**s**t files
-	* list all the content in the current directory
-* [mkdir](#): **m**a**k**e **d**irectory
-	* make a directory within the current directory
-* [touch](#):
-	* create a file within the current directory
-* [pwd](http://cli.learncodethehardway.org/book/ex2.html): **p**rint **w**orking **d**irectory
-* [grep](http://cli.learncodethehardway.org/book/ex18.html): **g**lobally search a **r**egular **e**xpression and **p**rint
-* [cat](http://cli.learncodethehardway.org/book/ex13.html):
-* [head](#):
-* [tail](#): (-n) display the last n lines of a file
-* [curl](#):
-* [sort](#):
-* [man](#): search the online **man**ual for a particular command
-
+* [cd](http://www.compciv.org/unix-tools/#cd): change directory
+* [ls](http://www.compciv.org/unix-tools/#ls): list files in a specified directory
+* [mkdir](http://www.compciv.org/unix-tools/#mkdir): make directory
+* [touch](http://www.compciv.org/unix-tools/#touch): update a file's timestamp, or create a new file
+* [pwd](http://www.compciv.org/unix-tools/#pwd): print working directory
+* [grep](http://www.compciv.org/unix-tools/#grep): **g**lobally search a **r**egular **e**xpression and **p**rint
+* [cat](http://www.compciv.org/unix-tools/#cat): concatenate, or combine two or more files
+* [head](http://www.compciv.org/unix-tools/#head): (-n) display the first n lines of a file
+* [tail](http://www.compciv.org/unix-tools/#tail): (-n) display the last n lines of a file
+* [curl](http://www.compciv.org/unix-tools/#curl): transfer content from a URL
+* [sort](http://www.compciv.org/unix-tools/#sort): sort lines of text from a file
+* [man](http://www.compciv.org/unix-tools/#man): search the manual or "how to" for a particular command
 
 Where Do You Go From Here
 =========================
@@ -63,18 +62,18 @@ Where Do You Go From Here
 Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them. They include:
 
 * [sudo](https://xkcd.com/149/)
-* [env vars](http://cli.learncodethehardway.org/book/ex21.html)
+* [tr](http://www.compciv.org/unix-tools/#tr)
+* [iconv](https://en.wikipedia.org/wiki/Iconv)
+* [wc](http://www.compciv.org/unix-tools/#wc)
+* [mv](http://www.compciv.org/unix-tools/#mv)
 * [ack](http://beyondgrep.com/)
 * [sed](http://www.grymoire.com/Unix/sed.html)
 * [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
 * [\>](http://cli.learncodethehardway.org/book/ex15.html)
 * [|](http://cli.learncodethehardway.org/book/ex15.html)
 * [vim](http://www.vim.org/)
-* [tr](https://en.wikipedia.org/wiki/Tr_%28Unix%29)
-* [iconv](https://en.wikipedia.org/wiki/Iconv)
+* [env vars](http://cli.learncodethehardway.org/book/ex21.html)
 * [xargs](https://en.wikipedia.org/wiki/Xargs)
-https://en.wikipedia.org/wiki/Xargs
-
 
 Learning More, Reference And Tools
 ==================================
@@ -88,12 +87,13 @@ Learning More, Reference And Tools
 ## Reference
 
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Unix tools](http://www.compciv.org/unix-tools/)
+* [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
 * [Working With CSVs On The Command Line](http://bconnelly.net/working-with-csvs-on-the-command-line/)
 * [Linux Command-Line Cheat Sheet](http://www.computerworld.com/s/article/print/9030259/Linux_Command_Line_Cheat_Sheet)
 * [Basics of Getting Around](https://github.com/amandabee/cunyjdata/blob/master/assignments/commandline.md)
-* [UNIX tricks](http://cfenollosa.com/misc/tricks.txt)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
-* [Useful Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
+* [Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
 * [Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
 
 ## Tools
@@ -110,4 +110,6 @@ About Us
 * AJ Vicens
 	* Xxxxx
 * Chris Keller
-	* Xxxxx
+	* Data editor and news applications developer at KPCC, the NPR affiliate in Pasadena, Calif. Chris joined KPCC in 2012 after spending more than 15 years in various print and digital roles at newspapers of various sizes in the Midwest.
+	* [GitHub](https://github.com/chrislkeller)
+	* [@ChrisLKeller](https://twitter.com/chrislkeller)
