@@ -33,6 +33,11 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 Getting Started
 ===============
 
+## What we're going to do
+
+```I think we're going to have folks change into a directory, make a new directory, touch a "read me file", curl a csv and then use head, tail, sort and grep... and scene.```
+
+
 ## Keyboard shortcuts are awesome
 
 * tab completion
