@@ -114,13 +114,13 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 	* See the first five lines of the text file, including the header file.
 
-		```$ head n -5 atlanta-crime-2009-2015.txt```
+		```$ head -n 5 atlanta-crime-2009-2015.txt```
 
 * [tail](http://www.compciv.org/unix-tools/#tail): (-n) display the last n lines of a file
 
 	* See the last five lines of the text file, including the header file.
 
-		```$ tail n -5 atlanta-crime-2009-2015.txt```
+		```$ tail -n 5 atlanta-crime-2009-2015.txt```
 
 * [cat](http://www.compciv.org/unix-tools/#cat): concatenate, or combine two or more files
 
