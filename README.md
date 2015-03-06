@@ -1,6 +1,7 @@
 How I learned to take command of the command line: A journalists guide to getting started
 =========================================================================================
 
+* [The Docs](http://bit.ly/nicar-cli)
 * [Getting To Know You](#getting-to-know-you)
 * [What Is The Command Line Anyway](#what-is-the-command-line-anyway)
 * [Getting Started](#getting-started)
