@@ -18,6 +18,8 @@ What Is The Command Line Anyway
 
 An alternative to accessing files and opening directories and files through a graphical user interface. Oh, and there are some fun tools there too.
 
+Why should I learn this... Efficiency...!
+
 Getting Started
 ===============
 
