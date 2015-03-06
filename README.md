@@ -67,6 +67,12 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 	* Now's a good time to introduce ```man``` or manual. Let's see what ```pwd``` does
 
 		```$ man pwd```
+	
+	* If you can't find help with ```man```, try ```info``` or add a ```-?``` or ```--help``` argument on the command
+
+		```$ info pwd```
+		```$ pwd -?```
+		```$ pwd --help```
 
 * [ls](http://www.compciv.org/unix-tools/#ls): list files in a specified directory
 
