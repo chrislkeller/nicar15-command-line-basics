@@ -91,15 +91,15 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 * [curl](http://www.compciv.org/unix-tools/#curl): transfer content from a URL
 
-	* Now we're getting somewhere. Let's download crime data from the Atlanta Police Department
+	* Now we're getting somewhere. Let's download crime data from the Atlanta Police Department. The real file exists at ```http://www.atlantapd.org/pdf/crime-data-downloads/D4314587-D61E-4B4F-9C4C-7CBA29B334F5.zip```. I saved a copy here that we can access.
 
-		```$ curl http://www.atlantapd.org/pdf/crime-data-downloads/D4314587-D61E-4B4F-9C4C-7CBA29B334F5.zip > my_crime_data_file.zip```
+		```$ curl https://s3.amazonaws.com/datanicar/atlanta_pd_crime_data_file.zip > my_atlanta_crime_data_file.zip```
 
 * [unzip](#): extract data from a zip file
 
 	* We can unzip this zip file from the command line
 
-		```$ unzip my_crime_data_file.zip```
+		```$ unzip my_atlanta_crime_data_file.zip```
 
 * [mv](#): move a file to a new directory, or simply rename it
 
