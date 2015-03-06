@@ -37,7 +37,6 @@ Getting Started
 
 ```I think we're going to have folks change into a directory, make a new directory, touch a "read me file", curl a csv and then use head, tail, sort and grep... and scene.```
 
-
 ## Keyboard shortcuts are awesome
 
 * tab completion
@@ -112,14 +111,32 @@ Learning More, Reference And Tools
 * [csv de dupe](https://github.com/datamade/csvdedupe):
 * [homebrew](http://brew.sh/)
 
+Sample Dataset
+==============
+
+Here's a good dataset to get you started with all the new commands you are learning: [Crime data from the ATPD](http://www.atlantapd.org/pdf/crime-data-downloads/D4314587-D61E-4B4F-9C4C-7CBA29B334F5.zip)
+
+Notice that when unzipped, the text file is 57 MB -- almost too big for excel.
+
+Try the following with the dataset:
+
+- `cd Downloads/COBRA022715.txt` (use tab completion to avoid misspell)
+- `mv COBRA022715.txt atlanta-crime-2009-2015.txt'
+- `head n -3 atlanta-crime-2009-2015.txt`. See what attributes are collected for each crime report.
+- `cat atlanta-crime-2009-2015.txt`. Find out how many rows you have in this dataset.
+- `grep "LARCENY" atlanta-crime-2009-2015.txt > larceny.txt`. Start looking at only larceny crimes.
+- Get the idea? Go explore!
+
 About Us
 ========
 
-* Jue Yang
-	* Xxxxx
 * AJ Vicens
 	* Xxxxx
 * Chris Keller
 	* Data editor and news applications developer at KPCC, the NPR affiliate in Pasadena, Calif. Chris joined KPCC in 2012 after spending more than 15 years in various print and digital roles at newspapers of various sizes in the Midwest.
 	* [GitHub](https://github.com/chrislkeller)
 	* [@ChrisLKeller](https://twitter.com/chrislkeller)
+* Jue Yang
+    * Technologist at CUNY Graduate School of Journalism in New York. Jue is a designveloper. (Unfortunately due to major snowfall, Jue's flight to NICAR was cancelled. She couldn't join NICAR in person this year, but will be virtually available should you have any questions!)
+    * [GitHub](https://github.com/jueyang)
+    * [@jue_yang](https://twitter.com/jue_yang)
