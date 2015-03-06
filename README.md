@@ -91,9 +91,9 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 * [unzip](#): extract data from a zip file
 
-	* Xxxx xxxx
+	* Xxxx xxxx 
 
-		```$ unzip -r my_crime_data_file.zip```
+		```$ unzip my_crime_data_file.zip```
 
 * [mv](#): move a file to a new directory, or simply rename it
 
