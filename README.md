@@ -95,13 +95,13 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 		```$ curl https://s3.amazonaws.com/datanicar/atlanta_pd_crime_data_file.zip > my_atlanta_crime_data_file.zip```
 
-* [unzip](#): extract data from a zip file
+* [unzip](http://www.compciv.org/unix-tools/#unzip): extract data from a zip file
 
 	* We can unzip this zip file from the command line
 
 		```$ unzip my_atlanta_crime_data_file.zip```
 
-* [mv](#): move a file to a new directory, or simply rename it
+* [mv](http://www.compciv.org/unix-tools/#mv): move a file to a new directory, or simply rename it
 
 	* In this case we're not necessarily "moving" the file, but in renaming it we're moving it to a new location for the file system
 
