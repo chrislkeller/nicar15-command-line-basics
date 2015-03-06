@@ -53,51 +53,57 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 ## On to the workshop
 
+* [pwd](http://www.compciv.org/unix-tools/#pwd): print working directory
+
+	* Let's see where we are in the file system
+
+		```$ pwd```
+
+* [man](http://www.compciv.org/unix-tools/#man): search the manual or "how to" for a particular command
+
+	* Now's a good time to introduce ```man``` or manual. Let's see what ```pwd``` does
+
+		```$ man pwd```
+
 * [ls](http://www.compciv.org/unix-tools/#ls): list files in a specified directory
 
-	* Xxxx xxxx
+	* Let's see what exists in current directory
 
 		```$ ls```
 
 * [mkdir](http://www.compciv.org/unix-tools/#mkdir): make directory
 
-	* Xxxx xxxx
+	* We'll make a new directory to store some files in
 
 		```$ mkdir my_nicar_data```
 
 * [cd](http://www.compciv.org/unix-tools/#cd): change directory
 
-	* Xxxx xxxx
+	* Let's move - or change - into that directory
 
 		```$ cd my_nicar_data```
 
-* [pwd](http://www.compciv.org/unix-tools/#pwd): print working directory
-
-	* Xxxx xxxx
-
-		```$ pwd```
-
 * [touch](http://www.compciv.org/unix-tools/#touch): update a file's timestamp, or create a new file
 
-	* Xxxx xxxx
+	* Let's make a new file. We're not going to do much with it, but hey - you can make a new file from the command line
 
 		```$ touch my_new_file.txt```
 
 * [curl](http://www.compciv.org/unix-tools/#curl): transfer content from a URL
 
-	* Download crime data from the Atlanta Police Department
-	
+	* Now we're getting somewhere. Let's download crime data from the Atlanta Police Department
+
 		```$ curl http://www.atlantapd.org/pdf/crime-data-downloads/D4314587-D61E-4B4F-9C4C-7CBA29B334F5.zip > my_crime_data_file.zip```
 
 * [unzip](#): extract data from a zip file
 
-	* Xxxx xxxx 
+	* We can unzip this zip file from the command line
 
 		```$ unzip my_crime_data_file.zip```
 
 * [mv](#): move a file to a new directory, or simply rename it
 
-	* Xxxx xxxx
+	* In this case we're not necessarily "moving" the file, but in renaming it we're moving it to a new location for the file system
 
 		```$ mv COBRA022715.txt atlanta-crime-2009-2015.txt```
 
@@ -123,7 +129,7 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 	* Start looking at only larceny crimes.
 
-		```$ grep "LARCENY" atlanta-crime-2009-2015.txt > larceny.txt``` 
+		```$ grep "LARCENY" atlanta-crime-2009-2015.txt > larceny.txt```
 
 * [sort](http://www.compciv.org/unix-tools/#sort): sort lines of text from a file
 
@@ -134,8 +140,6 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 	* Let's reverse the sort order
 
 		```$ sort -r larceny.txt```
-
-* [man](http://www.compciv.org/unix-tools/#man): search the manual or "how to" for a particular command
 
 Where Do You Go From Here
 =========================
@@ -192,8 +196,9 @@ About Us
 ========
 
 * AJ Vicens
-	* Mother Jones
-* Chris Keller
+	* Reporter at Mother Jones
+	* [@AJVicens](https://twitter.com/AJVicens)
+* Chris Keller (ckeller@scpr.org)
 	* Data editor and news applications developer at KPCC, the NPR affiliate in Pasadena, Calif. Chris joined KPCC in 2012 after spending more than 15 years in various print and digital roles at newspapers of various sizes in the Midwest.
 	* [GitHub](https://github.com/chrislkeller)
 	* [@ChrisLKeller](https://twitter.com/chrislkeller)
