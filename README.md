@@ -39,10 +39,15 @@ Getting Started
 
 ## Keyboard shortcuts are awesome
 
-* tab completion
-* ctrl + a and ctrl + e
-* piping
-* >
+* tab completion: use to finish command, directory or file names, or to see directories or files that match
+* ctrl + a: move to the beginning of a line
+* ctrl + e: move to the end of a line
+* up arrow: cycle back through previous commands
+
+## UNIX features you should know
+
+* redirection - [\>](http://cli.learncodethehardway.org/book/ex15.html)
+* piping - [|](http://cli.learncodethehardway.org/book/ex15.html)
 * standard output
 
 ## On to the commands
@@ -73,8 +78,6 @@ Many of the commands we detailed in this session represent the basics, some of t
 * [ack](http://beyondgrep.com/)
 * [sed](http://www.grymoire.com/Unix/sed.html)
 * [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
-* [\>](http://cli.learncodethehardway.org/book/ex15.html)
-* [|](http://cli.learncodethehardway.org/book/ex15.html)
 * [vim](http://www.vim.org/)
 * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
 * [xargs](https://en.wikipedia.org/wiki/Xargs)
