@@ -1,6 +1,7 @@
 How I learned to take command of the command line: A journalists guide to getting started
 =========================================================================================
 
+* [The Docs](http://bit.ly/nicar-cli)
 * [Getting To Know You](#getting-to-know-you)
 * [What Is The Command Line Anyway](#what-is-the-command-line-anyway)
 * [Getting Started](#getting-started)
@@ -17,6 +18,8 @@ What Is The Command Line Anyway
 ===============================
 
 An alternative to accessing files and opening directories and files through a graphical user interface. Oh, and there are some fun tools there too.
+
+Why should I learn this... Efficiency...!
 
 Getting Started
 ===============
@@ -64,6 +67,12 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 	* Now's a good time to introduce ```man``` or manual. Let's see what ```pwd``` does
 
 		```$ man pwd```
+	
+	* If you can't find help with ```man```, try ```info``` or add a ```-?``` or ```--help``` argument on the command
+
+		```$ info pwd```
+		```$ pwd -?```
+		```$ pwd --help```
 
 * [ls](http://www.compciv.org/unix-tools/#ls): list files in a specified directory
 
@@ -95,13 +104,13 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 		```$ curl https://s3.amazonaws.com/datanicar/atlanta_pd_crime_data_file.zip > my_atlanta_crime_data_file.zip```
 
-* [unzip](#): extract data from a zip file
+* [unzip](http://www.compciv.org/unix-tools/#unzip): extract data from a zip file
 
 	* We can unzip this zip file from the command line
 
 		```$ unzip my_atlanta_crime_data_file.zip```
 
-* [mv](#): move a file to a new directory, or simply rename it
+* [mv](http://www.compciv.org/unix-tools/#mv): move a file to a new directory, or simply rename it
 
 	* In this case we're not necessarily "moving" the file, but in renaming it we're moving it to a new location for the file system
 
@@ -111,13 +120,13 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 	* See the first five lines of the text file, including the header file.
 
-		```$ head n -5 atlanta-crime-2009-2015.txt```
+		```$ head -n 5 atlanta-crime-2009-2015.txt```
 
 * [tail](http://www.compciv.org/unix-tools/#tail): (-n) display the last n lines of a file
 
 	* See the last five lines of the text file, including the header file.
 
-		```$ tail n -5 atlanta-crime-2009-2015.txt```
+		```$ tail -n 5 atlanta-crime-2009-2015.txt```
 
 * [cat](http://www.compciv.org/unix-tools/#cat): concatenate, or combine two or more files
 
