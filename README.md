@@ -67,7 +67,7 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 	* Now's a good time to introduce ```man``` or manual. Let's see what ```pwd``` does
 
 		```$ man pwd```
-	
+
 	* If you can't find help with ```man```, try ```info``` or add a ```-?``` or ```--help``` argument on the command
 
 		```$ info pwd```
@@ -155,7 +155,9 @@ Where Do You Go From Here
 
 **Get the idea? Go explore!!!**
 
-Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them. They include:
+Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them.
+
+They include:
 
 * [sudo](https://xkcd.com/149/)
 * [tr](http://www.compciv.org/unix-tools/#tr)
@@ -175,6 +177,7 @@ Learning More, Reference And Tools
 ## Learning More
 
 * Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
+* Melody Kramer wrote [this guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) for using GitHub from the command line.
 * [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
 * [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
