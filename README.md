@@ -153,23 +153,29 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 Where Do You Go From Here
 =========================
 
-**Get the idea? Go explore!!!**
+* **Get an idea? Go explore!!!**
 
-Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them.
+* **Other NICAR15 sessions**
 
-They include:
+    * Liz Lucas taught an introductory session on [command line for Windows](http://ire.org/events-and-training/event/1494/1621/).
+    * * Matt Kiefer taught a [command line tools class in Windows using Cygwin](https://docs.google.com/document/d/1M2jaKfnOAXsPsBABlze6FFNkrcNK3d4Oayh4cYKD5Mo/edit).
+    * Agustin Armendariz and Kendall Taggart offered up [Useful command line tools for reporters](https://github.com/armendariz/terminal_recipes)
+    * Use terminal through a virtual machine. Check out this from the [Center for Investigative Reporting](https://github.com/cirlabs/vm).
 
-* [sudo](https://xkcd.com/149/)
-* [tr](http://www.compciv.org/unix-tools/#tr)
-* [iconv](https://en.wikipedia.org/wiki/Iconv)
-* [wc](http://www.compciv.org/unix-tools/#wc)
-* [mv](http://www.compciv.org/unix-tools/#mv)
-* [ack](http://beyondgrep.com/)
-* [sed](http://www.grymoire.com/Unix/sed.html)
-* [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
-* [vim](http://www.vim.org/)
-* [env vars](http://cli.learncodethehardway.org/book/ex21.html)
-* [xargs](https://en.wikipedia.org/wiki/Xargs)
+* **Learn more commands**
+
+	* Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them. They include:
+        * [sudo](https://xkcd.com/149/)
+        * [tr](http://www.compciv.org/unix-tools/#tr)
+        * [iconv](https://en.wikipedia.org/wiki/Iconv)
+        * [wc](http://www.compciv.org/unix-tools/#wc)
+        * [mv](http://www.compciv.org/unix-tools/#mv)
+        * [ack](http://beyondgrep.com/)
+        * [sed](http://www.grymoire.com/Unix/sed.html)
+        * [cut](http://www.thegeekstuff.com/2013/06/cut-command-examples/)
+        * [vim](http://www.vim.org/)
+        * [env vars](http://cli.learncodethehardway.org/book/ex21.html)
+        * [xargs](https://en.wikipedia.org/wiki/Xargs)
 
 Learning More, Reference And Tools
 ==================================
@@ -196,11 +202,10 @@ Learning More, Reference And Tools
 ## Tools
 
 * [csvkit](http://csvkit.readthedocs.org/en/latest/index.html):
-	* *"a suite of utilities for converting to and working with CSV, the king of tabular file formats."*
-	* [Getting it installed](https://github.com/amandabee/cunyjdata/wiki/Tutorial:-Installing-CSVKit) if `pip install csvkit` doesn't sound persuasive
-	* Using it to trim NYC DOB complaint records down to a manageable size [tutorial](https://github.com/amandabee/cunyjdata/wiki/Tutorial:-CSVkit)
-	* Using it to trim NYC's City Planning data down a ton [notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/csvkit.md)
-
+    * *"a suite of utilities for converting to and working with CSV, the king of tabular file formats."*
+    * [Getting it installed](https://github.com/amandabee/cunyjdata/wiki/Tutorial:-Installing-CSVKit) if `pip install csvkit` doesn't sound persuasive
+    * Using it to trim NYC DOB complaint records down to a manageable size [tutorial](https://github.com/amandabee/cunyjdata/wiki/Tutorial:-CSVkit)
+    * Using it to trim NYC's City Planning data down a ton [notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/csvkit.md)
 * [csv de dupe](https://github.com/datamade/csvdedupe):
 * [homebrew](http://brew.sh/)
 
