@@ -92,6 +92,9 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 		```$ cd my_nicar_data```
 
+    * ```cd ..``` allows us to move back one level
+    * ```cd ../..``` allows us to move back two levels
+
 * [touch](http://www.compciv.org/unix-tools/#touch): update a file's timestamp, or create a new file
 
 	* Let's make a new file. We're not going to do much with it, but hey - you can make a new file from the command line
