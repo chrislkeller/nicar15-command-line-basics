@@ -169,6 +169,7 @@ Where Do You Go From Here
 
 	* Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them. They include:
         * [sudo](https://xkcd.com/149/)
+        * cal
         * [tr](http://www.compciv.org/unix-tools/#tr)
         * [iconv](https://en.wikipedia.org/wiki/Iconv)
         * [wc](http://www.compciv.org/unix-tools/#wc)
