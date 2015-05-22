@@ -202,6 +202,7 @@ Learning More, Reference And Tools
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
 * [Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+* [The $PATH to Enlightenment](http://alistapart.com/article/the-path-to-enlightenment)
 
 ## Tools
 
