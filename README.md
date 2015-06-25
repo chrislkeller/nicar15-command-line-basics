@@ -188,6 +188,7 @@ Learning More, Reference And Tools
 
 * Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 * Melody Kramer wrote [this guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) for using GitHub from the command line.
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
 * [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
