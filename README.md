@@ -169,6 +169,7 @@ Where Do You Go From Here
 
 	* Many of the commands we detailed in this session represent the basics, some of the foundational sorts of things you can do to begin to be proficient. But there are many more, and a [discussion post-#NICAR14](https://twitter.com/mikejcorey/status/440159788979077121) highlighted many of them. They include:
         * [sudo](https://xkcd.com/149/)
+        * cal
         * [tr](http://www.compciv.org/unix-tools/#tr)
         * [iconv](https://en.wikipedia.org/wiki/Iconv)
         * [wc](http://www.compciv.org/unix-tools/#wc)
@@ -187,6 +188,7 @@ Learning More, Reference And Tools
 
 * Noah Veltman's [The Command Line Murders: Teaching the Terminal with a Detective Noir](http://veltman.tumblr.com/post/65613277843/the-command-line-murders-teaching-the-terminal-with-a)
 * Melody Kramer wrote [this guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) for using GitHub from the command line.
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
 * [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * Code Academy [Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line)
@@ -202,6 +204,7 @@ Learning More, Reference And Tools
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Unix commands for exploring data](http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html)
 * [Advanced command line tricks using json and XML and CSVs](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+* [The $PATH to Enlightenment](http://alistapart.com/article/the-path-to-enlightenment)
 
 ## Tools
 
