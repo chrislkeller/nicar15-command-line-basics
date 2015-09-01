@@ -189,6 +189,7 @@ Learning More, Reference And Tools
 * Melody Kramer wrote [this guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) for using GitHub from the command line.
 * [Over the wire terminal game](http://overthewire.org/wargames/bandit/bandit0.html)
 * [Terminus game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+* Code Academy [Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line)
 
 ## Reference
 
