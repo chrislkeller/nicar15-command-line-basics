@@ -5,6 +5,7 @@ How I learned to take command of the command line: A journalists guide to gettin
 * [Getting To Know You](#getting-to-know-you)
 * [What Is The Command Line Anyway](#what-is-the-command-line-anyway)
 * [Getting Started](#getting-started)
+* [Workshops](#workshops)
 * [Where Do You Go From Here](#where-do-you-go-from-here)
 * [Learning More, Reference And Tools](#learning-more-reference-and-tools)
 * [About Us](#about-us)
@@ -54,7 +55,8 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 * piping - [|](http://cli.learncodethehardway.org/book/ex15.html)
 	* .....
 
-## On to the workshops
+Workshops
+==========
 
 * [#NICAR15 Workshop Walkthrough](/NICAR_15/README.md)
 * [#ONA15 Workshop Walkthrough](/ONA_15/README.md)
