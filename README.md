@@ -56,8 +56,8 @@ This #NICAR15 hands-on session aims to help beginners learn some basic commands 
 
 ## On to the workshops
 
-* [#NICAR15 Workshop Walkthrough](/NICAR_15/NICAR_15_README.md)
-* [#ONA15 Workshop Walkthrough](/ONA_15/ONA_15_README.md)
+* [#NICAR15 Workshop Walkthrough](/NICAR_15/README.md)
+* [#ONA15 Workshop Walkthrough](/ONA_15/README.md)
 
 Where Do You Go From Here
 =========================
