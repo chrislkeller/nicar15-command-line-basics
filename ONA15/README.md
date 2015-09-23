@@ -1,6 +1,8 @@
 #ONA15 Workshop Walkthrough
 =============================
 
+![](/ONA15/ONA_15_Session_Cover_Slide.png)
+
 * [pwd](http://www.compciv.org/unix-tools/#pwd): print working directory
 
     * Let's see where we are in the file system
