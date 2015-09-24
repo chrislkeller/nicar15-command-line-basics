@@ -120,6 +120,7 @@
     * We never want to work with our original data so let's make copies of each file
 
         ```$ cp phmsa_pipeline_operators.csv BAK_phmsa_pipeline_operators.csv```
+
         ```$ cp phmsa-incident-details.csv BAK_phmsa-incident-details.csv```
 
 * [mv](http://www.compciv.org/unix-tools/#mv): move a file to a new directory, or simply rename it
