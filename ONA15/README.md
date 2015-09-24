@@ -117,23 +117,22 @@
 
 * [cp](http://www.compciv.org/unix-tools/#cp): make a duplicate of a file
 
-        ```$ cp phmsa-incident-details.csv incidents_to_explore.csv```
+    * We never want to work with our original data so let's make copies of each file
+
+        ```$ cp phmsa_pipeline_operators.csv BAK_phmsa_pipeline_operators.csv```
+        ```$ cp phmsa-incident-details.csv BAK_phmsa-incident-details.csv```
 
 * [mv](http://www.compciv.org/unix-tools/#mv): move a file to a new directory, or simply rename it
 
     * In this case we're not necessarily "moving" the file, but in renaming it we're moving it to a new location for the file system
 
-        ```$ mv incidents_to_explore.csv my_new_incidents_to_explore.csv```
-
-    * Let's name it back to what it was
-
-        ```$ mv my_new_incidents_to_explore.csv incidents_to_explore.csv```
+        ```$ mv phmsa-incident-details.csv incidents_to_explore.csv```
 
 * [grep](http://www.compciv.org/unix-tools/#grep): globally search a regular expression and print
 
-    * Let's see how many times the name CITGO appears in the file.
+    * Let's see how many times the term RUPTURE appears in the file.
 
-        ```$ grep "CITGO" incidents_to_explore.csv```
+        ```$ grep "RUPTURE" incidents_to_explore.csv```
 
     * Grepping multiple files for case insensitive term, showing file names with the match
 
@@ -159,7 +158,7 @@
 
 * [cat](http://www.compciv.org/unix-tools/#cat): concatenate, or combine two or more files
 
-    * Let's make a new file incidents involving *Phillips 66 Pipeline* and then combine it with our ```buckeye_partners.csv```
+    * Let's make a new file incidents involving *Phillips 66 Pipeline* and then combine it with our ```buckeye_partners.csv``` that contains incidents with *Buckeye Partners*
 
         ```$ grep "Phillips 66 Pipeline" incidents_to_explore.csv > phillips_66_pipeline.csv```
 
