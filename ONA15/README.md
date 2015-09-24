@@ -107,13 +107,13 @@
 
     * See the first 10 lines of ```phmsa_pipeline_operators.csv``` Don't forget to use tab for autocomplete.
 
-        ```$ head -n 10 phmsa_pipeline_operators.csv```
+        ```$ head -10 phmsa_pipeline_operators.csv```
 
 * [tail](http://www.compciv.org/unix-tools/#tail): (-n) display the last n lines of a file
 
     * See the last five lines of ```phmsa-incident-details.csv```
 
-        ```$ tail -n 5 phmsa-incident-details.csv```
+        ```$ tail -5 phmsa-incident-details.csv```
 
 * [cp](http://www.compciv.org/unix-tools/#cp): make a duplicate of a file
 
